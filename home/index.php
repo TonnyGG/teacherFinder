@@ -1,11 +1,11 @@
 <?php 
 // Global Vars
-$title = "Home";
+$title = "Inicio";
 //==============================
-include("../global/header.php");
+include("./global/header.php");
 ?>
 <section id="main-home">
 </section>
 <?php
-include("../global/header.php");
+include("./global/footer.php");
 ?>
